@@ -1,0 +1,8 @@
+[Unit]
+Description=Polybar health check and multi-monitor restart
+After=graphical-session.target
+
+[Service]
+Type=oneshot
+Environment=DISPLAY=:0
+ExecStart=%h/.config/polybar/polybar-health.sh

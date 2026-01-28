@@ -38,7 +38,7 @@ A collection of custom polybar modules for system monitoring and control.
 ![Network Speed](screenshots/netspeed.png)
 
 ### Public IP
-![Public IP](screenshots/public-ip.png)
+![Public IP]
 
 ## Widgets
 

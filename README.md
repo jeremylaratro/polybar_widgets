@@ -4,41 +4,41 @@ A collection of custom polybar modules for system monitoring and control.
 
 ## Screenshots
 
-### VPN Status
-![VPN](screenshots/widget_vpn.png)
+### VPN
+![VPN](screenshots/vpn.png)
 
-### Timer
-![Timer](screenshots/widget_timer.png)
+### Uptime
+![Uptime](screenshots/uptime.png)
 
-### Containers
-![Containers](screenshots/widget_containers.png)
+### Docker
+![Docker](screenshots/docker.png)
 
 ### Updates
-![Updates](screenshots/widget_updates.png)
+![Updates](screenshots/updates.png)
 
 ### IDS
-![IDS](screenshots/widget_ids.png)
+![IDS](screenshots/ids.png)
 
 ### Brightness
-![Brightness](screenshots/widget_brightness.png)
+![Brightness](screenshots/brightness.png)
 
 ### Audio Mute
-![Muted](screenshots/widget_muted.png)
+![Muted](screenshots/muted.png)
 
 ### Webcam
-![Webcam](screenshots/widget_webcam.png)
+![Webcam](screenshots/webcam.png)
 
 ### Microphone
-![Mic](screenshots/widget_mic.png)
+![Mic](screenshots/mic.png)
 
 ### Pomodoro
-![Pomodoro](screenshots/widget_pomodoro.png)
+![Pomodoro](screenshots/pomodoro.png)
 
 ### Network Speed
-![Network Speed](screenshots/widget_network_speed.png)
+![Network Speed](screenshots/netspeed.png)
 
-### IP Address
-![IP](screenshots/widget_ip.png)
+### Public IP
+![Public IP](screenshots/public-ip.png)
 
 ## Widgets
 

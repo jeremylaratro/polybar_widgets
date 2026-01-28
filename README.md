@@ -2,6 +2,44 @@
 
 A collection of custom polybar modules for system monitoring and control.
 
+## Screenshots
+
+### VPN Status
+![VPN](screenshots/widget_vpn.png)
+
+### Timer
+![Timer](screenshots/widget_timer.png)
+
+### Containers
+![Containers](screenshots/widget_containers.png)
+
+### Updates
+![Updates](screenshots/widget_updates.png)
+
+### IDS
+![IDS](screenshots/widget_ids.png)
+
+### Brightness
+![Brightness](screenshots/widget_brightness.png)
+
+### Audio Mute
+![Muted](screenshots/widget_muted.png)
+
+### Webcam
+![Webcam](screenshots/widget_webcam.png)
+
+### Microphone
+![Mic](screenshots/widget_mic.png)
+
+### Pomodoro
+![Pomodoro](screenshots/widget_pomodoro.png)
+
+### Network Speed
+![Network Speed](screenshots/widget_network_speed.png)
+
+### IP Address
+![IP](screenshots/widget_ip.png)
+
 ## Widgets
 
 | Widget | Description |
